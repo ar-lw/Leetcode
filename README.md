@@ -7,6 +7,7 @@ Problem Solving
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ar-lw/Leetcode/tree/master/0007-reverse-integer) |
+| [2427-number-of-common-factors](https://github.com/ar-lw/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2864-maximum-odd-binary-number](https://github.com/ar-lw/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## String
 |  |
@@ -25,4 +26,20 @@ Problem Solving
 |  |
 | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ar-lw/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ar-lw/Leetcode/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ar-lw/Leetcode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ar-lw/Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ar-lw/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
