@@ -13,6 +13,7 @@ Problem Solving
 |  |
 | ------- |
 | [2864-maximum-odd-binary-number](https://github.com/ar-lw/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3498-reverse-degree-of-a-string](https://github.com/ar-lw/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ar-lw/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -42,4 +43,8 @@ Problem Solving
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/ar-lw/Leetcode/tree/master/2427-number-of-common-factors) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/ar-lw/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
