@@ -10,6 +10,7 @@ Problem Solving
 | [2427-number-of-common-factors](https://github.com/ar-lw/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2864-maximum-odd-binary-number](https://github.com/ar-lw/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3516-find-closest-person](https://github.com/ar-lw/Leetcode/tree/master/3516-find-closest-person) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ar-lw/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
@@ -48,4 +49,8 @@ Problem Solving
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/ar-lw/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ar-lw/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
