@@ -53,4 +53,8 @@ Problem Solving
 |  |
 | ------- |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ar-lw/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ar-lw/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
