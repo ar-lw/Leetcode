@@ -53,6 +53,7 @@ Problem Solving
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/ar-lw/Leetcode/tree/master/0260-single-number-iii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ar-lw/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Database
 |  |
@@ -68,4 +69,8 @@ Problem Solving
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ar-lw/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/ar-lw/Leetcode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
