@@ -25,6 +25,7 @@ Problem Solving
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ar-lw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ar-lw/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -53,6 +54,7 @@ Problem Solving
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ar-lw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/ar-lw/Leetcode/tree/master/0260-single-number-iii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ar-lw/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Database
@@ -73,4 +75,8 @@ Problem Solving
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/ar-lw/Leetcode/tree/master/0260-single-number-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ar-lw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
