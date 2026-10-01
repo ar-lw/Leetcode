@@ -10,18 +10,21 @@ class Solution {
             if(c=='('||c=='{'||c=='['){
                 stack.push(c);
             }
+            
             else{
                 if(stack.isEmpty()){
                     return false;
                 }
-                char top=stack.peek();
-                if(top==map.get(c)){
-                    stack.pop();
-                }
                 else{
-                    return false;
+                    char top=stack.peek();
+                    if(top==map.get(c)){
+                        stack.pop();
+                    }
+                    else{
+                        return false;
+                    }
                 }
-            }
+            }  
         }  
         return stack.isEmpty();
     }
