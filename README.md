@@ -11,6 +11,7 @@ Problem Solving
 | [2864-maximum-odd-binary-number](https://github.com/ar-lw/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3516-find-closest-person](https://github.com/ar-lw/Leetcode/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ar-lw/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ar-lw/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
