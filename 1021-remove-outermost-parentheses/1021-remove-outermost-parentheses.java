@@ -4,7 +4,6 @@ class Solution {
         StringBuilder sb = new StringBuilder();
         int count=0;
         for(int i=0;i<s.length();i++){
-
             char c=s.charAt(i);
             sb.append(c);
             if(c=='(') count++;
@@ -13,7 +12,7 @@ class Solution {
                 sb.deleteCharAt(sb.length()-1);
                 sb.deleteCharAt(0);
                 res.append(sb.toString());
-                sb=new StringBuilder();
+                sb.setLength(0);
             }
         }
         return res.toString();
