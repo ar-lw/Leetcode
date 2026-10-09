@@ -30,6 +30,7 @@ Problem Solving
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ar-lw/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ar-lw/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ar-lw/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/ar-lw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ar-lw/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -94,11 +95,13 @@ Problem Solving
 | [0021-merge-two-sorted-lists](https://github.com/ar-lw/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ar-lw/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ar-lw/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ar-lw/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ar-lw/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ar-lw/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ar-lw/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
