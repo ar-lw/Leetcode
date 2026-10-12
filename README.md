@@ -41,6 +41,7 @@ Problem Solving
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/ar-lw/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ar-lw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Problem Solving
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ar-lw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/ar-lw/Leetcode/tree/master/0260-single-number-iii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ar-lw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ar-lw/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Database
 |  |
