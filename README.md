@@ -77,6 +77,7 @@ Problem Solving
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ar-lw/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/ar-lw/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ar-lw/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/ar-lw/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ar-lw/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -125,4 +126,8 @@ Problem Solving
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ar-lw/Leetcode/tree/master/0118-pascals-triangle) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ar-lw/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
