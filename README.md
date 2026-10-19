@@ -65,6 +65,7 @@ Problem Solving
 | [0118-pascals-triangle](https://github.com/ar-lw/Leetcode/tree/master/0118-pascals-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/ar-lw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/ar-lw/Leetcode/tree/master/0260-single-number-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ar-lw/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ar-lw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ar-lw/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Database
@@ -130,4 +131,12 @@ Problem Solving
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ar-lw/Leetcode/tree/master/0155-min-stack) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ar-lw/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ar-lw/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
