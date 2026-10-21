@@ -22,6 +22,7 @@ Problem Solving
 | [2864-maximum-odd-binary-number](https://github.com/ar-lw/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3498-reverse-degree-of-a-string](https://github.com/ar-lw/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ar-lw/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3838-weighted-word-mapping](https://github.com/ar-lw/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Problem Solving
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/ar-lw/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/ar-lw/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Problem Solving
 | [2778-sum-of-squares-of-special-elements](https://github.com/ar-lw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3151-special-array-i](https://github.com/ar-lw/Leetcode/tree/master/3151-special-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ar-lw/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3838-weighted-word-mapping](https://github.com/ar-lw/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Database
 |  |
 | ------- |
