@@ -68,6 +68,7 @@ Problem Solving
 | [0219-contains-duplicate-ii](https://github.com/ar-lw/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ar-lw/Leetcode/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/ar-lw/Leetcode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/ar-lw/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ar-lw/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ar-lw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3151-special-array-i](https://github.com/ar-lw/Leetcode/tree/master/3151-special-array-i) |
@@ -97,6 +98,7 @@ Problem Solving
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/ar-lw/Leetcode/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/ar-lw/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,11 +119,13 @@ Problem Solving
 | [0142-linked-list-cycle-ii](https://github.com/ar-lw/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ar-lw/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ar-lw/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ar-lw/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ar-lw/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ar-lw/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ar-lw/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -139,9 +143,14 @@ Problem Solving
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ar-lw/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ar-lw/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ar-lw/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ar-lw/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
