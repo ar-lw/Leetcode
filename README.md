@@ -9,6 +9,7 @@ Problem Solving
 | [0002-add-two-numbers](https://github.com/ar-lw/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ar-lw/Leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/ar-lw/Leetcode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/ar-lw/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ar-lw/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2409-count-days-spent-together](https://github.com/ar-lw/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/ar-lw/Leetcode/tree/master/2427-number-of-common-factors) |
@@ -21,6 +22,7 @@ Problem Solving
 | ------- |
 | [0020-valid-parentheses](https://github.com/ar-lw/Leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ar-lw/Leetcode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/ar-lw/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1021-remove-outermost-parentheses](https://github.com/ar-lw/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ar-lw/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/ar-lw/Leetcode/tree/master/2409-count-days-spent-together) |
