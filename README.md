@@ -10,6 +10,7 @@ Problem Solving
 | [0007-reverse-integer](https://github.com/ar-lw/Leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/ar-lw/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ar-lw/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0507-perfect-number](https://github.com/ar-lw/Leetcode/tree/master/0507-perfect-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ar-lw/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2409-count-days-spent-together](https://github.com/ar-lw/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/ar-lw/Leetcode/tree/master/2427-number-of-common-factors) |
