@@ -11,6 +11,7 @@ Problem Solving
 | [0067-add-binary](https://github.com/ar-lw/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ar-lw/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0507-perfect-number](https://github.com/ar-lw/Leetcode/tree/master/0507-perfect-number) |
+| [1154-day-of-the-year](https://github.com/ar-lw/Leetcode/tree/master/1154-day-of-the-year) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ar-lw/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2409-count-days-spent-together](https://github.com/ar-lw/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/ar-lw/Leetcode/tree/master/2427-number-of-common-factors) |
@@ -25,6 +26,7 @@ Problem Solving
 | [0067-add-binary](https://github.com/ar-lw/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ar-lw/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1021-remove-outermost-parentheses](https://github.com/ar-lw/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1154-day-of-the-year](https://github.com/ar-lw/Leetcode/tree/master/1154-day-of-the-year) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ar-lw/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/ar-lw/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/ar-lw/Leetcode/tree/master/2864-maximum-odd-binary-number) |
