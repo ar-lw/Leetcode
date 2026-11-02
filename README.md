@@ -81,6 +81,7 @@ Problem Solving
 | [0260-single-number-iii](https://github.com/ar-lw/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ar-lw/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ar-lw/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2643-row-with-maximum-ones](https://github.com/ar-lw/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ar-lw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3151-special-array-i](https://github.com/ar-lw/Leetcode/tree/master/3151-special-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ar-lw/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -165,4 +166,8 @@ Problem Solving
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ar-lw/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/ar-lw/Leetcode/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
