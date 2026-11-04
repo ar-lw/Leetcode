@@ -80,6 +80,7 @@ Problem Solving
 | [0228-summary-ranges](https://github.com/ar-lw/Leetcode/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/ar-lw/Leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/ar-lw/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1051-height-checker](https://github.com/ar-lw/Leetcode/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ar-lw/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2643-row-with-maximum-ones](https://github.com/ar-lw/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ar-lw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -161,6 +162,7 @@ Problem Solving
 ## Sorting
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/ar-lw/Leetcode/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ar-lw/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Pigeonhole Principle
 |  |
@@ -170,4 +172,12 @@ Problem Solving
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/ar-lw/Leetcode/tree/master/2643-row-with-maximum-ones) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ar-lw/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ar-lw/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
