@@ -86,6 +86,7 @@ Problem Solving
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ar-lw/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ar-lw/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1051-height-checker](https://github.com/ar-lw/Leetcode/tree/master/1051-height-checker) |
+| [1732-find-the-highest-altitude](https://github.com/ar-lw/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ar-lw/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2643-row-with-maximum-ones](https://github.com/ar-lw/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ar-lw/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -187,4 +188,8 @@ Problem Solving
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ar-lw/Leetcode/tree/master/1051-height-checker) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/ar-lw/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
