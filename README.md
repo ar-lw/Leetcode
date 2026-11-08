@@ -30,6 +30,7 @@ Problem Solving
 | [0168-excel-sheet-column-title](https://github.com/ar-lw/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [1021-remove-outermost-parentheses](https://github.com/ar-lw/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/ar-lw/Leetcode/tree/master/1154-day-of-the-year) |
+| [1189-maximum-number-of-balloons](https://github.com/ar-lw/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ar-lw/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2409-count-days-spent-together](https://github.com/ar-lw/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/ar-lw/Leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -47,10 +48,12 @@ Problem Solving
 | [0142-linked-list-cycle-ii](https://github.com/ar-lw/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ar-lw/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/ar-lw/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/ar-lw/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ar-lw/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ar-lw/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ar-lw/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
