@@ -13,6 +13,7 @@ Problem Solving
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ar-lw/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ar-lw/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/ar-lw/Leetcode/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/ar-lw/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1154-day-of-the-year](https://github.com/ar-lw/Leetcode/tree/master/1154-day-of-the-year) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ar-lw/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2409-count-days-spent-together](https://github.com/ar-lw/Leetcode/tree/master/2409-count-days-spent-together) |
